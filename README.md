@@ -2,28 +2,20 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## imnhema's Cloud Journey
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+Welcome to my **100 Days of Livity** which is inspired by the 100 Days of Cloud challenge. For the next 100 Days, I'm going to dedicate a few hours every day to learning new skills in cloud computing and its related technologies. For the past few months, I have been studying for the Azure Administrator (AZ - 104) exam and will use this 100-day challenge to improve my knowledge and skills to help me pass the exam. The #100DaysOfCloud challenge caught my eye as an excellent opportunity to immerse myself in the cloud computing world. This structured, day-to-day learning path will provide me with the discipline and knowledge necessary to advance in my career. 
 
-## [✍️ Your Name]'s Cloud Journey
+By the end of this challenge, I aim to have a solid foundation in cloud computing, particularly in  Azure. Ultimately, I aspire to transition my career towards a cloud-focused role, where I can continue to learn, innovate, and contribute to impactful projects. After 100 days, I hope I will:
 
-[✍️ Introduce yourself]
+- Have the knowledge to administer Azure deployments
+- Have mastered the fundamentals of Azure networking and Azure Security
+- Become more comfortable in Powershell
+- Gained knowledge in DevOps
+- Have familiarised myself with Windows and Linux administration
+- Have passed the AZ -104 exam
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+This repository will be used for scripts that will be created during this challenge and I will be posting daily posts about my progress on my [Blog](https://cyberlivity.com/).
 
 ## Stepping out the door
 
